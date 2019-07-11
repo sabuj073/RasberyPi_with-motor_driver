@@ -1,0 +1,6 @@
+Ena -A = GPIO - 25
+In1 = GPIO 23
+In2 = GPIO 24
+In3 = GPIO 27
+In4 = GPIO 17
+Enb = GPIO 22
