@@ -4,3 +4,5 @@ In2 = GPIO 24
 In3 = GPIO 27
 In4 = GPIO 17
 Enb = GPIO 22
+
+https://www.instructables.com/id/Raspberry-Pi-Launch-Python-script-on-startup/?fbclid=IwAR0l6yNnRNV_miAVLnZDu3lUkqTrDFUkYp02OU5vG7M0dUuS1NlR99uXabg
